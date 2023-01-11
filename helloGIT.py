@@ -1,2 +1,2 @@
 print("Hello GIT")
-print("Modifique un print :o")
+print("Modifique un print")
